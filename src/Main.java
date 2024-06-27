@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        String[] fruits = {"Apple", "Grapes", "Orange", "Bannana"};
+        String[] fruits = {"Apple", "Grapes", "Orange", "Banana"};
         System.out.println("Fruits inside the array is listed below: ");
         System.out.println(fruits[0]);
         System.out.println(fruits[1]);
